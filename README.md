@@ -4,7 +4,7 @@
 
 Наличие веток:
 
-master
+main
 
 develop
 
